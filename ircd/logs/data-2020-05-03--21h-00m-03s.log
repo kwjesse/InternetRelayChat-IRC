@@ -1,0 +1,47 @@
+-2020-05-03--21h-00m-03s Configuration file loaded.
+
+-2020-05-03--21h-00m-03s Successfully opened socket.
+
+-2020-05-03--21h-00m-03s Set the address family to AF_INET.
+
+-2020-05-03--21h-00m-03s Set address for binding to INADDR_ANY.
+
+-2020-05-03--21h-00m-03s Set port in network.
+
+-2020-05-03--21h-00m-03s Assigned the address to the socket.
+
+-2020-05-03--21h-00m-07s The new socket was accepted and connected.
+
+-2020-05-03--21h-00m-07s Wrote message for USER command.
+
+-2020-05-03--21h-00m-14s Read message from client for USER command.
+
+-2020-05-03--21h-00m-14s Wrote message for NICK command.
+
+-2020-05-03--21h-00m-17s Read message from client for NICK command.
+
+-2020-05-03--21h-00m-21s The new socket was accepted and connected.
+
+-2020-05-03--21h-00m-21s Wrote message for USER command.
+
+-2020-05-03--21h-00m-29s Read message from client for USER command.
+
+-2020-05-03--21h-00m-29s Wrote message for NICK command.
+
+-2020-05-03--21h-00m-38s Read message from client for NICK command.
+
+-2020-05-03--21h-00m-41s Read message from @hannah.
+
+-2020-05-03--21h-00m-41s Wrote message to @katie.
+
+-2020-05-03--21h-00m-48s Read message from @hannah.
+
+-2020-05-03--21h-00m-48s @hannah created new a new channel called #soccer.
+
+-2020-05-03--21h-00m-59s Read message from @katie.
+
+-2020-05-03--21h-00m-59s @katie joined an existing channel called #soccer.
+
+-2020-05-03--21h-01m-03s Thread is closing down, EOF recieved.
+
+-2020-05-03--21h-01m-06s Thread is closing down, EOF recieved.

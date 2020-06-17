@@ -1,0 +1,24 @@
+// config.txt
+filetype = Server Configuration File
+
+// Parameters
+// The port the server listens on
+port = 5000
+
+// 1. LOG_ERR - concisely provides the errors and all important information
+// 2. LOG_ALL - provides extra information on low-level tasks in addition to
+//              LOG_ERR to use for debugging purposes
+// 3. NONE - does not provide any logging information
+logging_levels = LOG_ALL
+
+// Where the log file will be stored
+log_path = logs/
+
+// The file name of the log file
+log_filename = data
+
+// Number of maximum client connections
+max_client_connections = 5
+
+// The size of the message that can be sent
+buffer_size = 256
